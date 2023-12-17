@@ -1,1 +1,1 @@
-# Sintaxis-S.DAndrea
+# Repositorio de la cursada de Sintaxis y Semántica de los Lenguajes. 
